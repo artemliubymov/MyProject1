@@ -50,7 +50,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.security.SecurityMiddleware',
 )
 
-ROOT_URLCONF = 'myblojic.urls'
+ROOT_URLCONF = 'src.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'myblojic.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 
 # Database
