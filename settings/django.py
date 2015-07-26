@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'myblojic.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 
 # Database
