@@ -63,3 +63,6 @@ target/
 db.sqlite3
 settings/local.py
 .idea
+
+#some not identified files
+*.py~
